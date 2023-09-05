@@ -16,7 +16,7 @@ include $(DEVKITARM)/ds_rules
 #---------------------------------------------------------------------------------
 TARGET		:=	$(shell basename $(CURDIR))
 BUILD		:=	build
-SOURCES		:=	gfx source data  
+SOURCES		:=	src data  
 INCLUDES	:=	include build
 MUSIC       :=  audio
 GAME_ICON	:=	../icon.bmp
