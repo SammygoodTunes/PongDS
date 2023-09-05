@@ -23,9 +23,7 @@ In order to compile the source, you will need the devkitPro.
 
 Then, in the root folder, run the Makefile with:
 
-```./make``` (Linux)
-
-```make``` (Windows)
+```make```
 
 
 
