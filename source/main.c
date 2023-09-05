@@ -1,3 +1,7 @@
+/** Project name: PongDS
+  * Author: SammygoodTunes
+  * Version: 1.0 **/
+
 
 #include <nds.h>
 #include <stdio.h>
