@@ -1,6 +1,4 @@
 # PongDS
-Pong game port to the Nintendo DS
-
 
 ## Explanation:
 
@@ -11,10 +9,10 @@ The top screen shows the game, the bottom screen displays the score.
 
 ## Controls:
 
-[START] -> Start game
+- [START] -> Start game
 
 
-[DPad Up/Down] -> Move your paddle
+- [DPad Up/Down] -> Move your paddle
 
 
 
@@ -25,7 +23,8 @@ In order to compile the source, you will need the devkitPro.
 
 Then, in the root folder, run the Makefile with:
 
-```./make```
+```./make``` (Linux)
+```make``` (Windows)
 
 
 
