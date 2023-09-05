@@ -126,7 +126,8 @@ int main(void) {
 	mm_sound_effect win = {{ SFX_WIN }, (int)(1.0f * (1<<10)), 0, 255, 127,};
 	mm_sound_effect lose = {{ SFX_LOSE }, (int)(1.0f * (1<<10)), 0, 255, 127,};
 
-	mmStart(MOD_PONGDS, MM_PLAY_LOOP);
+	// Uncomment to enable terrible music
+	// mmStart(MOD_PONGDS, MM_PLAY_LOOP);
 
 	// mm_sfxhand sfxHander = 0;
 
