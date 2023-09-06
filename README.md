@@ -7,6 +7,19 @@ This is a port of the Python pong game I made a while back, made specifically to
 The top screen shows the game, the bottom screen displays the score.
 
 
+
+### Future updates:
+
+- Use libnds' built-in sinLerp() and cosLerp() (fixed point)
+
+- Multiplayer mode (Wireless/LAN)
+
+- Better music
+
+- Power-ups / Obstacles (to make the game interesting)
+
+
+
 ## Controls:
 
 - [START] -> Start game
