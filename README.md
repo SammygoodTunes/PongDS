@@ -38,10 +38,6 @@ Then, in the root folder, run the Makefile with:
 
 ```make```
 
-
-
-## Run the game
-
 Running the game requires either an emulator (No$gba, DeSmuME...), either an R4 card or either a homebrewed DS.
 
 
