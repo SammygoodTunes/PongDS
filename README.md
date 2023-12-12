@@ -41,6 +41,10 @@ Then, in the root folder, run the Makefile with:
 Running the game requires either an emulator (No$gba, DeSmuME...), either an R4 card or either a homebrewed DS.
 
 
+### Note
+
+Though some emulators may work with this ROM, others (very likely) won't support homebrew games as it is very difficult to emulate a ROM built using libnds.
+
 
 ## Development information:
 
