@@ -6,8 +6,6 @@ This is a port of the Python pong game I made a while back, made specifically to
 
 The top screen shows the game, the bottom screen displays the score.
 
-
-
 ### Future updates:
 
 - Use libnds' built-in sinLerp() and cosLerp() (fixed point)
@@ -18,33 +16,23 @@ The top screen shows the game, the bottom screen displays the score.
 
 - Power-ups / Obstacles (to make the game interesting)
 
-
-
 ## Controls:
 
-- [START] -> Start game
+- [**START**] -> Start game
 
 
-- [DPad Up/Down] -> Move your paddle
-
-
+- [**DPad Up/Down**] -> Move your paddle
 
 ## Compilation:
 
 In order to compile the source, you will need the devkitPro.
 
 
-Then, in the root folder, run the Makefile with:
+Then, in the root folder, run the Makefile with: `make`
 
-```make```
+Running the game requires either an emulator (No$gba, DeSmuME, melonDS...), either an R4 card or either a homebrewed DS.
 
-Running the game requires either an emulator (No$gba, DeSmuME...), either an R4 card or either a homebrewed DS.
-
-
-### Note
-
-Though some emulators may work with this ROM, others (very likely) won't support homebrew games as it is very difficult to emulate a ROM built using libnds.
-
+> Though some emulators may work with this ROM, others (very likely) will not support homebrew games as it is very difficult to emulate a ROM built using libnds.
 
 ## Development information:
 
