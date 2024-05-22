@@ -25,8 +25,9 @@ The top screen shows the game, the bottom screen displays the score.
 
 ## Compilation:
 
-In order to compile from source, you will need [devkitPro](https://github.com/devkitPro/installer/releases).
+Though the ROM is already provided in the repository, some may want to compile from source.
 
+In order to do so, you will need [devkitPro](https://github.com/devkitPro/installer/releases).
 
 Then, in the root folder, run the Makefile with: `make`
 
