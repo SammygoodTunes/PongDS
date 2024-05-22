@@ -25,7 +25,7 @@ The top screen shows the game, the bottom screen displays the score.
 
 ## Compilation:
 
-In order to compile the source, you will need the devkitPro.
+In order to compile from source, you will need the devkitPro.
 
 
 Then, in the root folder, run the Makefile with: `make`
@@ -38,5 +38,4 @@ Running the game requires either an emulator (No$gba, DeSmuME, melonDS...), eith
 
 Developed by: SammygoodTunes
 
-
-Library(ies) used: libnds, maxmod9
+Libraries used: libnds, maxmod9
